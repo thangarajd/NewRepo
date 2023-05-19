@@ -14,6 +14,7 @@ public class Programes {
 		hm.put("Third", 3);
 		hm.put("Four", 4);
 		hm.put("Five", 5);
+		hm.put("Six",6);
 	
 		for(Map.Entry<String, Integer> e: hm.entrySet()) {
 			
